@@ -1,0 +1,34 @@
+{
+  "destination": [
+    {
+      "id": "1",
+      "name": "New York",
+      "country": "USA",
+      "days": 5
+    },
+    {
+      "id": "2",
+      "name": "Los Angeles",
+      "country": "USA",
+      "days": 7
+    },
+    {
+      "id": "3",
+      "name": "Chicago",
+      "country": "USA",
+      "days": 6
+    },
+    {
+      "id": "4",
+      "name": "Houston",
+      "country": "USA",
+      "days": 8
+    },
+    {
+      "id": "5",
+      "name": "Kyoto",
+      "country": "Japan",
+      "days": 30
+    }
+  ]
+}
